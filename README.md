@@ -1,6 +1,6 @@
 ## hello world :world_map: 
 
-I'm Juli, a Front-end Developer working in Manchester :uk:, UK.
+I'm Juli, a Front-End Developer working in Manchester :uk:, UK.
 
 ## skills :bulb:
 
