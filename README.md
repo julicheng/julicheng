@@ -1,6 +1,6 @@
 ## hello world :world_map: 
 
-I'm Juli, a Front-End Developer working in Manchester :uk:, UK.
+I'm Juli, a Frontend Engineer working in Manchester :uk:, UK.
 
 ## skills :bulb:
 
@@ -43,4 +43,6 @@ I'm Juli, a Front-End Developer working in Manchester :uk:, UK.
 
 
 ## stats :dart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julicheng&layout=compact&theme=cobalt)](https://github.com/julicheng/github-readme-stats)
+[![Juli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julicheng&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Juli's GitHub stats](https://github-readme-stats.vercel.app/api?username=julicheng&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
